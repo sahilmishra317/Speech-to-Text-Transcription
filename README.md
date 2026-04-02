@@ -90,7 +90,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🎓 About
 
-This project was developed as part of an internship program, demonstrating the integration of speech recognition technology with modern web frameworks.
+This project was developed by **Sahil Mishra** as part of an internship program, showcasing the seamless integration of speech recognition technology with modern web frameworks. It demonstrates practical application of Python libraries in building user-friendly AI-powered tools.
+
+### 👨‍💻 Author
+
+**Sahil Mishra**  
+Passionate about AI, machine learning, and web development.  
+[GitHub](https://github.com/sahilmishra317) | [LinkedIn](https://linkedin.com/in/sahilmishra317) (if applicable)
 
 ---
 
